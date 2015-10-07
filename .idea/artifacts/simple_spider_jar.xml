@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="simple_spider:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/simple_spider_jar</output-path>
+    <root id="archive" name="simple_spider.jar">
+      <element id="module-output" name="simple_spider" />
+    </root>
+  </artifact>
+</component>
