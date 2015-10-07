@@ -6,4 +6,4 @@ Choosing [糗事百科](http://www.qiushibaike.com) is just out of fun (make tea
 
 ## Known bugs
 
-[] Can't handle situations where there is no author (will grub next author to fill in the blank).
+- [  ] Can't handle situations where there is no author (will grub next author to fill in the blank).
